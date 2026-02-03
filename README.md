@@ -1,4 +1,10 @@
 <p><small>Best View in <a href="https://github.com/settings/appearance">Light Mode</a> and Desktop Site (Recommended)</small></p><br/>
+## 👤 Maintainer
+
+- **Name:** Saii Pallapati  
+- **GitHub:** https://github.com/saiipallapati  
+
+> This repository is a fork/adaptation of the original **AI Resume Analyzer** project for learning and enhancement purposes.
 
 ![AI-Resume-Analyzer](https://socialify.git.ci/deepakpadhi986/AI-Resume-Analyzer/image?description=1&descriptionEditable=5th%20Sem%20Final%20Year%20Project%20at%20Kirti%20M%20Doongursee%20College%20(2022%20-%2023)&font=Raleway&language=1&pattern=Plus&theme=Light)
 
